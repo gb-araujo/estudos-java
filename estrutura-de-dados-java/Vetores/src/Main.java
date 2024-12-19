@@ -4,6 +4,6 @@ public class Main {
         vetor.adiciona("Gabriel");
         vetor.adiciona("Mara");
         vetor.adiciona("Iasmin");
-
+        System.out.println(vetor.tamanho());
     }
 }

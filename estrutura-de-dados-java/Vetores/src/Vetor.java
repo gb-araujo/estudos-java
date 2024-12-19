@@ -20,7 +20,8 @@ public class Vetor {
         }
     */
 
-// O(1) constante
+    // O(1) constante
+
     // Outra opção é utilizar BOOLEAN no lugar de lançar exceções.
     public void adiciona(String elemento) throws Exception{
         if(this.tamanho < this.elementos.length) {
@@ -30,4 +31,10 @@ public class Vetor {
             throw new Exception("Vetor está cheio");
         }
     }
+
+    public int tamanho(){
+        return this.tamanho;
+    }
+
+
 }
