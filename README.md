@@ -2,7 +2,7 @@
 
 Repositório destinado a centralizar meus estudos e exercicios práticos desenvolvidos. Aqui você encontrará implementações, anotações e exercícios relacionados a diversas áreas da tecnologia.
 
-## 📚 Conteúdo
+## Conteúdo
 
 ### Temas e Tecnologias
 
@@ -10,8 +10,8 @@ Repositório destinado a centralizar meus estudos e exercicios práticos desenvo
 - **Estruturas de Dados e Algoritmos**
 - **Desenvolvimento Web**
 
-## 📁 Estrutura do Repositório
-
+## Estrutura do Repositório
+### |- Cada diretório contém um README relacionado ao contéudo dele -|
 ```
 study/
 ├── 200-exercicios-java/
@@ -19,7 +19,7 @@ study/
 
 ```
 
-## 🎯 Objetivo
+## Objetivo
 
 Reforçar conhecimentos e documentar meu progresso nos estudos, criando uma base sólida para projetos futuros e desafios técnicos.
 
