@@ -5,5 +5,7 @@ public class Main {
         vetor.adiciona("Mara");
         vetor.adiciona("Iasmin");
         System.out.println(vetor.tamanho());
+
+        System.out.println(vetor.toString());
     }
 }
